@@ -1,7 +1,8 @@
 Provides quick access to the Web Pages projects I have created.
 
-* [Pricing Panel Project](https://github.com/ZichengHe-Susan/Web-Projects-All/blob/main/PRICING/index.html)
-* [New User Registration](https://github.com/ZichengHe-Susan/Web-Projects-All/blob/main/FORM-VALIDATOR/index.html)
-* [Museum of Candy](https://github.com/ZichengHe-Susan/Web-Projects-All/blob/main/MUSEUM-OF-CANDY/index.html)
-* [Movie Seat Selection](https://github.com/ZichengHe-Susan/Web-Projects-All/blob/main/MOVIE-SEAT/index.html)
-* [Photo Site](https://github.com/ZichengHe-Susan/Web-Projects-All/blob/main/PHOTO-SITE/photosite.html)
+* [Pricing Panel Project](https://ZichengHe-Susan.github.io/Web-Projects-All/PRICING/index.html)
+* [New User Registration](https://ZichengHe-Susan.github.io/Web-Projects-All/FORM-VALIDATOR/index.html)
+* [Museum of Candy](https://ZichengHe-Susan.github.io/Web-Projects-All/MUSEUM-OF-CANDY/index.html)
+* [Movie Seat Selection](https://ZichengHe-Susan.github.io/Web-Projects-All/MOVIE-SEAT/index.html)
+* [Photo Site](https://ZichengHe-Susan.github.io/Web-Projects-All/PHOTO-SITE/photosite.html)
+
